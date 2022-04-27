@@ -1,0 +1,14 @@
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.exe
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.deps.json
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.runtimeconfig.json
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.runtimeconfig.dev.json
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.dll
+C:\Users\Administ\Desktop\Philisoph\bin\Debug\netcoreapp3.1\Philisoph.pdb
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.csproj.AssemblyReference.cache
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.AssemblyInfoInputs.cache
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.AssemblyInfo.cs
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.dll
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.pdb
+C:\Users\Administ\Desktop\Philisoph\obj\Debug\netcoreapp3.1\Philisoph.genruntimeconfig.cache
